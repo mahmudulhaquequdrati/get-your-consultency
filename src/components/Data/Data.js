@@ -19,7 +19,7 @@ const Data = (props) => {
         <button>Get Now</button>
       </div>
       {data.map((allPeople) => {
-        return <div key={Math.random() * 1000}>{allPeople.name}</div>;
+        return <div key={Math.random() * 10000}>{allPeople.name}</div>;
       })}
     </div>
   );

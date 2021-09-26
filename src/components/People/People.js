@@ -5,7 +5,6 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import "./People.css";
 
 const People = (props) => {
-  // console.log(props);
   const { name, img, age, country, id, salary } = props.people;
   const Icon = <FontAwesomeIcon icon={faShoppingCart} />;
   return (
