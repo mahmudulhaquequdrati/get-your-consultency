@@ -1,0 +1,30 @@
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.people {
+  display: flex;
+  align-items: center;
+  transition: 0.7s;
+  padding: 20px 10px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.people h3 {
+  color: rgb(25, 27, 136);
+}
+.people-info {
+  line-height: 15px;
+  padding-left: 10px;
+}
+.people-info button {
+  margin-top: 10px;
+  padding: 10px 30px;
+  background-color: gold;
+  border: 1px solid rgb(158, 140, 93);
+  cursor: pointer;
+  border-radius: 10px;
+}

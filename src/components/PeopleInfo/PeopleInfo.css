@@ -1,0 +1,13 @@
+.people-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.people-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+  margin: 10px;
+}
+.people-data {
+  padding-left: 10px;
+}

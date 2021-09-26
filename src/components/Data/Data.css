@@ -1,0 +1,15 @@
+.list-container h3 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.list-btn {
+  text-align: center;
+}
+.list-btn button {
+  background-color: gold;
+  padding: 10px 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+}

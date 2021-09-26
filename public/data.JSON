@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Alim Khan",
+    "img": "https://images.unsplash.com/photo-1608494603682-913a9e8abee9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWVufGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 45,
+    "country": "Bangladesh",
+    "salary": 560000,
+    "Job": "poet",
+    "id": "9b1deb4d"
+  },
+  {
+    "name": "Selim Khan",
+    "img": "https://images.unsplash.com/photo-1578176603894-57973e38890f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDN8fG1lbnxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 47,
+    "country": "Bangladesh",
+    "salary": 568000,
+    "Job": "teacher",
+    "id": "3b7d4bad"
+  },
+  {
+    "name": "Abul khan",
+    "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fG1lbnxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 67,
+    "country": "Bangladesh",
+    "salary": 960000,
+    "Job": "consaltant",
+    "id": "9bdd2b0d"
+  },
+  {
+    "name": "Dr. Amjad",
+    "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODJ8fG1lbnxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 69,
+    "country": "Bangladesh",
+    "salary": 1260000,
+    "Job": "doctor",
+    "id": "7b3dcb6d"
+  },
+  {
+    "name": "Kabir khan",
+    "img": "https://images.unsplash.com/photo-1623200470420-e7546d2f786c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fG1lbnxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 38,
+    "country": "Bangladesh",
+    "salary": 860000,
+    "Job": "engenieer",
+    "id": "8eeb97b9"
+  },
+  {
+    "name": "Rakib Ali",
+    "img": "https://images.unsplash.com/photo-1506207803951-1ee93d7256ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fG1lbnxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+    "age": 60,
+    "country": "Bangladesh",
+    "salary": 990000,
+    "Job": "businessman",
+    "id": "a70f443c"
+  }
+]
