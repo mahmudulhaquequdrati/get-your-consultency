@@ -3,6 +3,7 @@ import "./Data.css";
 
 const Data = (props) => {
   const { data } = props;
+
   // total fee
   let total = 0;
   for (const people of data) {
